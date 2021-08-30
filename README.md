@@ -1,8 +1,9 @@
-# Work Samples
+# Jim Creighton - Work Samples
 ----
 
+### The Relationship Between Terrorism and Tourism (Data Manipulation and Visualization)
 
-![photo](https://github.com/jimcreighton/jimcreighton.github.io/Jim%20Creighton.jpg)
+![photo](Jim%20Creighton.jpg)
 
 You can use the [editor on GitHub](https://github.com/jimcreighton/jimcreighton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
