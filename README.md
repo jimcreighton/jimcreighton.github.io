@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+# Jim Creighton
+
+![photo](https://jimcreighton.github.io/Jim Creighton.jpg)
 
 You can use the [editor on GitHub](https://github.com/jimcreighton/jimcreighton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
 ### Markdown
 
