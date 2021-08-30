@@ -1,4 +1,6 @@
-# Jim Creighton
+# Work Samples
+----
+
 
 ![photo](https://github.com/jimcreighton/jimcreighton.github.io/Jim%20Creighton.jpg)
 
