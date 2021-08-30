@@ -1,5 +1,5 @@
 <p align="center">
-  # Jim Creighton - Work Samples
+  //# Jim Creighton - Work Samples
 </p>
 <p align="center">
   <img src="Jim%20Creighton.jpg" height="100px"/>
