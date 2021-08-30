@@ -3,7 +3,7 @@
 
 ### The Relationship Between Terrorism and Tourism (Data Manipulation and Visualization)
 
-![photo](Jim%20Creighton.jpg)
+![photo](Jim%20Creighton.jpg =100x100)
 
 You can use the [editor on GitHub](https://github.com/jimcreighton/jimcreighton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
