@@ -11,10 +11,10 @@
   
 ### 2) Wikipedia Text Complexity and Topic Modelling  
 * Supervised/Unsupervised Machine Learning and Visualization  
-* [Report](assets\Wikipedia Text.pdf)  
+* [Report](assets\Wikipedia_Text.pdf)  
 * [Project repo](https://github.com/jimcreighton/ai_and_jim_siads694)  
   
 ### 3) Predicting At-Risk Undergraduate Students  
 * Supervised Machine Learning and Visualization  
-* [Report](assets\Predicting At-Risk Students.pdf)  
+* [Report](assets\Predicting_At-Risk_Students.pdf)  
 * Private Repo (confidential data)  
