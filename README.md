@@ -1,7 +1,9 @@
 # Jim Creighton - Work Samples
 ![photo](Jim%20Creighton.jpg){:height="100px" halign="middle"}
 
-
+<p align="center">
+  <img src="Jim%20Creighton.jpg" height="100px"/>
+</p>
 ----
 
 ### The Relationship Between Terrorism and Tourism (Data Manipulation and Visualization)
