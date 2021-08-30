@@ -1,12 +1,18 @@
 # Jim Creighton - Work Samples
-![photo](Jim%20Creighton.jpg){:height="100px" halign="middle"}
-
 <p align="center">
   <img src="Jim%20Creighton.jpg" height="100px"/>
 </p>
 ----
 
-### The Relationship Between Terrorism and Tourism (Data Manipulation and Visualization)
+### [The Relationship Between Terrorism and Tourism](Terrorism_Tourism_Final_Report.pdf)
+(Data Manipulation and Visualization)
+
+### [Wikipedia Text Complexity and Topic Modelling](Wikipedia Text.pdf)
+(Supervised/Unsupervised Machine Learning and Visualization)
+
+### [Predicting At-Risk Undergraduate Students](Predicting At-Risk Students.pdf)
+(Supervised Machine Learning and Visualization)
+
 
 
 You can use the [editor on GitHub](https://github.com/jimcreighton/jimcreighton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
