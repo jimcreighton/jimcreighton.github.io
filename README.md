@@ -1,4 +1,5 @@
-# Jim Creighton - Project Work Samples
+# Jim Creighton
+# Project Work Samples
 <p align="center">
   <img src="assets\Jim%20Creighton.jpg" height="100px"/>
 </p>
