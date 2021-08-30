@@ -1,6 +1,6 @@
 # Jim Creighton
 
-![photo](https://github.com/jimcreighton/jimcreighton.github.io/blob/main/Jim%20Creighton.jpg)
+![photo](https://github.com/jimcreighton/jimcreighton.github.io/main/Jim%20Creighton.jpg)
 
 You can use the [editor on GitHub](https://github.com/jimcreighton/jimcreighton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
