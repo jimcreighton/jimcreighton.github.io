@@ -1,6 +1,6 @@
 # Jim Creighton - Work Samples
 <p align="center">
-  <img src="Jim%20Creighton.jpg" height="100px"/>
+  <img src="assets\Jim%20Creighton.jpg" height="100px"/>
 </p>
 ----
 <br />
