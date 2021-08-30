@@ -18,4 +18,4 @@
 ### 3) Predicting At-Risk Undergraduate Students  
 * Supervised Machine Learning and Visualization  
 * [Report](assets\Predicting_At-Risk_Students.pdf)  
-* Private Repo (confidential data)  
+* Private repo (confidential data; not available publicly)  
