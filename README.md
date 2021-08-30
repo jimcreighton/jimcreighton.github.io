@@ -1,4 +1,5 @@
-# Jim Creighton - Data Science and Machine Learning Work Samples
+# Jim Creighton - Work Samples
+## Data Science & Machine Learning 
 
 <p align="center">
   <img src="Jim%20Creighton.jpg" height="100px"/>
@@ -6,7 +7,6 @@
 ----
 
 ### [The Relationship Between Terrorism and Tourism](Terrorism_Tourism_Final_Report.pdf)  
-◦ (Data Manipulation ◦ Visualization)  
 <p align="center">
     // Data Manipulation ◦ Visualization
 </p>
