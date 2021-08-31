@@ -1,5 +1,5 @@
 # Jim Creighton
-# Project Work Samples
+# Data Science / ML Project Work Samples
 <p align="center">
   <img src="assets\Jim%20Creighton.jpg" height="100px"/>
 </p>
